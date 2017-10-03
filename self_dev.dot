@@ -1,0 +1,11 @@
+digraph SelfDev
+{
+	root ->
+	{
+		HardSkill,
+		Cmmunication,
+		Innovation,
+		Replay,
+		Teamwork
+	}
+}

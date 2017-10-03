@@ -7,6 +7,7 @@ language
     c++
     ---------
     java 
+    jvm
     ---------
     shell(bash)
     perl
@@ -54,3 +55,9 @@ tool
 software-dev and manage
     OOA&D
 
+----------------------------------------
+dev 
+    http/curl
+    json/protocol buff 
+    mysqlpp
+    apache/nginx
